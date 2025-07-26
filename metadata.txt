@@ -1,0 +1,9 @@
+Contract Name: TRC20
+Token Name: HOBHOB
+Symbol: HOB
+Decimals: 8
+Total Supply: 10,000,000,000 HOB (with 8 decimals)
+Compiler Version: 0.5.18
+Optimization: No
+License: MIT
+Source Verified: Yes (on Tronscan)
