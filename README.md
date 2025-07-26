@@ -11,7 +11,7 @@ This repository contains the source code, bytecode, ABI, and related metadata fo
 - **Symbol:** HOB  
 - **Decimals:** 8  
 - **Total Supply:** 10,000,000,000 HOB  
-- **Contract Address:** [Insert your deployed contract address here]  
+- **Contract Address:** https://tronscan.org/#/token20/TLuSjYwBxgJkM9thV9vbi7njf29FKrpkMX 
 - **Network:** TRON (TRC-20)
 
 ---
